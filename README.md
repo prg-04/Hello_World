@@ -115,7 +115,7 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Ellon Mordercai
+> Evans Karanja
 
 👤 **Author1**
 
